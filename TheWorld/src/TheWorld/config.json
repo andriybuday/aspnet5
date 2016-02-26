@@ -1,6 +1,7 @@
 ﻿{
   "AppSettings": {
-    "SiteEmailAddress": "me@gmail.com"
+    "SiteEmailAddress": "me@gmail.com",
+    "BingKey": "DONOT"
   },
   "Data": {
     "WorldContextConnection": "Server=(localdb)\\ProjectsV12;Database=TheWorldDB;Trusted_Connection=true;MultipleActiveResultSets=true;"
